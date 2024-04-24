@@ -1,4 +1,4 @@
-#include "include/raylib.h"
+#include "lib/raylib.h"
 
 #define MAX_TUBES 100
 #define FLOPPY_RADIUS 24
